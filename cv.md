@@ -48,14 +48,13 @@ function removeDuplicate(array) {
 ## Work experience
 No work experience.
 
-## Education
-2019-2021\
-**Incomplete Higher Education**\
-PUT (Poznan University of Technology)\
-Computer Science
 
-2008-2019\
-**Graduated**\
-Gymnasium number 71\
-With in-depth
-study of the English language
+## Courses
+- .NET Fundamentals (completed)\
+<img style="width:600px;" src="EPAM.png" />
+
+## Languages
+- English - Upper-Intermediate
+- Ukrainian - Native
+- Russian - Native
+
